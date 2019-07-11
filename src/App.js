@@ -1,5 +1,18 @@
-import React from "react";
+import React, { Fragment } from "react";
 
-const App = () => <h1>André Macedo!</h1>;
+import "./App.css";
+//import Container from "./Components/HeaderApp/styles";
+
+import Container from "./Components/HeaderApp";
+import Content from "./Components/ContentApp";
+
+const App = () => {
+  return (
+    <Fragment>
+      <Container />
+      <Content />
+    </Fragment>
+  );
+};
 
 export default App;
