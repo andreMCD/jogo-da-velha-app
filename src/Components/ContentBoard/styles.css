@@ -1,0 +1,8 @@
+.container-content {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -60%);
+    height: 300px;
+    width: 300px;
+}
