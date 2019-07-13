@@ -1,0 +1,11 @@
+.next-player {
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+    width: 300px;
+    margin: 20px auto;
+
+    font-size: 2em;
+    color: #c1c1c1;
+    font-weight: bold;
+    text-align: center;
+}
