@@ -1,8 +1,6 @@
 .container-content {
-    position: absolute;
-    top: 60%;
-    left: 50%;
-    transform: translate(-50%, -60%);
+    position: relative;
     height: 300px;
     width: 300px;
+    margin: 0 auto;
 }
